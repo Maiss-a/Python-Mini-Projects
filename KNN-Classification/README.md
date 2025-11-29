@@ -1,6 +1,8 @@
 # KNN Classification on Iris Dataset
 We will follow these steps:
+
 ● Load and preprocess data (normalize features)
+
 ● Split into training and testing sets
 ● Train KNN model on the training data
 ● Make predictions on the test set
